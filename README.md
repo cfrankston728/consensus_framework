@@ -102,7 +102,7 @@ file2.bed    \t    chromosome,start,end
 The framework is implemented in two main modules:
 
 1. `locus_consensus.py`: Contains the core statistical consensus functionality
-2. `bed_consensus_cli.py`: Provides the command-line interface
+2. `locus_consensus_cli.py`: Provides the command-line interface
 
 ### Key Components
 
