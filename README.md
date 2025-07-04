@@ -1,6 +1,6 @@
 # Consensus Framework for Robust Statistical Locus Selection
 
-This package implements the mathematical framework described in "A General Consensus Framework for Robust Statistical Locus Selection" by Frankston et al. (2025).
+This package implements the mathematical framework described in "A General Consensus Framework for Robust Statistical Locus Selection" by Connor M. Frankston.
 
 ## Overview
 
