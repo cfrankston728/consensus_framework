@@ -1,0 +1,6 @@
+location	sep	table_columns
+caller1.bed	\t	chromosome,start,end
+caller2.bed	\t	chromosome,start,end
+caller3.bed	\t	chromosome,start,end
+caller4.bed	\t	chromosome,start,end
+caller5.bed	\t	chromosome,start,end

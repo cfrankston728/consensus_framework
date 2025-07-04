@@ -1,0 +1,19 @@
+consensus_framework/
+├── pyproject.toml                 # Python packaging configuration
+├── setup.py                       # Package installation
+├── README.md                      # Documentation
+├── LICENSE                        # MIT License
+├── .gitignore                     # Git ignore file
+├── src/
+│   └── consensus_framework/
+│       ├── __init__.py            # Package initialization
+│       ├── locus_consensus.py     # Core statistical functionality
+│       └── bed_consensus_cli.py   # Command-line interface
+├── tests/
+│   ├── __init__.py                # Test package initialization
+│   ├── test_locus_consensus.py    # Tests for core functions
+│   └── test_bed_consensus_cli.py  # Tests for CLI functionality
+└── docs/
+    ├── usage.md                   # Detailed usage instructions
+    └── examples/
+        └── example_input.tsv      # Example input file
